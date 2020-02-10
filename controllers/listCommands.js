@@ -2,7 +2,7 @@
 
 module.exports.commands = (res) => {
 
-    const logger = require('../log/logger.js');
+    const logger = require('../config/logger.js');
     const list_commands = require('./../data/commands');
     const format_responses = (commands) => {
         return new Promise((resolve, reject) => {

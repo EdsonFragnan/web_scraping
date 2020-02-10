@@ -2,12 +2,15 @@
 
 module.exports = app => {
   const controller = app.controllers;
+  const logger = require('../config/logger.js');
 
   app.post('/scraping', (req, res) => {
+    logger.info('POST - ROUTE - SCRAPING');
     controller.saveCommands.saveScraping(res);
   });
 
   app.get('/scraping_commands', (req, res) => {
+    logger.info('GET - ROUTE - SCRAPINGCOMMANDS');
     controller.listCommands.commands(res);
   });
   

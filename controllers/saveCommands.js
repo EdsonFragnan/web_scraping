@@ -3,7 +3,7 @@
 module.exports.saveScraping = (res) => {
    
     const scraping_function = require('./../scraping/scraping.js');
-    const logger = require('../log/logger.js');
+    const logger = require('../config/logger.js');
     const fs = require("fs");
 
     const callScraping = () => {

@@ -213,3 +213,47 @@
 {"message":{"date":"2020-02-10T00:50:27.758Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
 {"message":"Web Scraping Success","level":"info"}
 {"message":{"date":"2020-02-10T00:58:43.801Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T00:58:43.801Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"POST - ROUTE - SCRAPING","level":"info"}
+{"message":"Web Scraping Success","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T00:58:43.801Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"POST - ROUTE - SCRAPING","level":"info"}
+{"message":"Web Scraping Success","level":"info"}
+{"message":{"date":"2020-02-10T03:11:31.739Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"POST - ROUTE - SCRAPING","level":"info"}
+{"message":"Web Scraping Success","level":"info"}
+{"message":{"date":"2020-02-10T03:12:21.622Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"POST - ROUTE - SCRAPING","level":"info"}
+{"message":"Web Scraping Success","level":"info"}
+{"message":{"date":"2020-02-10T03:12:59.249Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}
+{"message":"GET - ROUTE - SCRAPINGCOMMANDS","level":"info"}
+{"message":{"date":"2020-02-10T03:04:41.019Z","commands":[{"goTo":"Navigate to https://www.google.com.br/"},{"type":"Itau value inserted in the field"},{"press":"Clicked on the keyboard: Enter"},{"click":"Clicked on the selector: #rso > div:nth-child(1) > div > div > div > div > div.r > a"},{"close":"Browser closed"}]},"level":"info"}

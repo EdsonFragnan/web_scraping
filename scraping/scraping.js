@@ -3,7 +3,7 @@
 module.exports.scraping = (callback) => {
     
     const puppeteer = require('puppeteer');
-    const logger = require('../log/logger.js');
+    const logger = require('../config/logger.js');
     
     let scrape = () => {
 

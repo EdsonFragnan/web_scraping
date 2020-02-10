@@ -7,7 +7,7 @@ const Express = require('express'),
 Consign()
   .include('config')
   .include('controllers')
-  .then('routes')
+  .then('presentation')
   .into(app);
 
 module.exports = app;
