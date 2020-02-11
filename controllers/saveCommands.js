@@ -4,6 +4,7 @@ module.exports.saveScraping = (res) => {
    
     const scraping_function = require('./../scraping/scraping.js');
     const logger = require('../config/logger.js');
+    const list_commands = require('./../data/commands');
     const fs = require("fs");
 
     const callScraping = () => {
@@ -16,19 +17,27 @@ module.exports.saveScraping = (res) => {
 
     const saveCommands = (commands) => {
         return new Promise((resolve, reject) => {
-            fs.writeFile('data/commands.json', JSON.stringify(commands), function(err) {
-                if (err) {
-                    let error = {
-                        statusCode: 422,
-                        message: err
-                    };
-                    logger.error(error);
-                    reject(error);
-                } else {
-                    logger.info(commands);
-                    resolve({message: 'Commands History Created!'})
-                }
-            });
+            if (!list_commands) {
+                let commands_list = [];
+                commands_list.push(commands);
+                fs.writeFile('data/commands.json', JSON.stringify(commands_list), function(err) {
+                    if (err) {
+                        let error = {
+                            statusCode: 422,
+                            message: err
+                        };
+                        logger.error(error);
+                        reject(error);
+                    } else {
+                        logger.info(commands_list);
+                        resolve({message: 'Commands History Created!'})
+                    }
+                });
+            } else {
+                list_commands.push(commands);
+                logger.info(list_commands);
+                resolve({message: 'Commands History Created!'})
+            }
         });
     };
 

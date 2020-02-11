@@ -4,6 +4,7 @@ module.exports.commands = (res) => {
 
     const logger = require('../config/logger.js');
     const list_commands = require('./../data/commands');
+
     const format_responses = (commands) => {
         return new Promise((resolve, reject) => {
             if (!commands) {

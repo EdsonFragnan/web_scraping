@@ -10,7 +10,7 @@ module.exports = app => {
   });
 
   app.get('/scraping_commands', (req, res) => {
-    logger.info('GET - ROUTE - SCRAPINGCOMMANDS');
+    logger.info('GET - ROUTE - SCRAPING_COMMANDS');
     controller.listCommands.commands(res);
   });
   
